@@ -22,8 +22,11 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 Please add this env files
 
 MONGODB_URL=mongodb+srv://blog-user:DhQN5Jb9Cyqe33hs@cluster0.db6gj.mongodb.net/
+
 JWT_SECRET=type some random letters
+
 NEXTAUTH_SECRET=type some random letters
+
 NEXTAUTH_URL=http://localhost:3002
 
 
