@@ -1,4 +1,4 @@
-// http://localhost:3002/api/blog/blogid/comment
+// http://localhost:3000/api/blog/blogid/comment
 
 import { connect } from "@/lib/db";
 import { NextResponse } from "next/server";

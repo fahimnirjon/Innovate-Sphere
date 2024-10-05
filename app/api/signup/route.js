@@ -1,4 +1,4 @@
-// http://localhost:3002/api/signup
+// http://localhost:3000/api/signup
 
 import User from "@/models/User";
 import bcrypt, { hash } from "bcrypt";

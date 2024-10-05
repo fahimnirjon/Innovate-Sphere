@@ -27,7 +27,7 @@ JWT_SECRET=type some random letters
 
 NEXTAUTH_SECRET=type some random letters
 
-NEXTAUTH_URL=http://localhost:3002
+NEXTAUTH_URL=http://localhost:3000
 
 
 CLOUD_NAME=daix02yhc

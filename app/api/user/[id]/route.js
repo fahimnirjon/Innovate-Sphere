@@ -1,4 +1,4 @@
-// http://localhost:3002/api/user/someid
+// http://localhost:3000/api/user/someid
 
 import { connect } from "@/lib/db";
 import { NextResponse } from "next/server";
